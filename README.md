@@ -10,12 +10,12 @@ Here are some ideas to get you started:
 - I code in Python, C++, Dart
 - Flutter dev, Intersted in Data science and Cloud computing
 
-- 📫 How to reach me: 
+- 📫 How to reach me: <br>
   email: thierry.noundou.isbm@gmail.com <br>
-  insta: thierry_gaetan__
-  snap: thierry_gaetan
-  Linkedin: Thierry Njike
-  Discord: Lapache#0029
+  insta: thierry_gaetan <br>
+  snap: thierry_gaetan <br>
+  Linkedin: Thierry Njike <br>
+  Discord: Lapache#0029 <br>
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: master in Bowling lol, would you try with me? don't do that you will lost!
