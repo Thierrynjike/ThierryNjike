@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - Flutter dev, Intersted in Data science and Cloud computing
 
 - 📫 How to reach me: 
-  email: thierry.noundou.isbm@gmail.com__
+  email: thierry.noundou.isbm@gmail.com <br>
   insta: thierry_gaetan__
   snap: thierry_gaetan
   Linkedin: Thierry Njike
