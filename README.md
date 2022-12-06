@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently pursuing my master degree in software engineer
+- 🌱 I’m currently pursuing my master degree in software engineering
 - I code in Python, C++, Dart
-- Flutter dev, Intersted in Data science and Cloud computing
+- Flutter dev, Interested in ML, Data, and Cloud computing
 
 - 📫 How to reach me: <br>
   email: thierry.noundou.isbm@gmail.com <br>
