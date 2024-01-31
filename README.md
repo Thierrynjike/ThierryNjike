@@ -6,15 +6,14 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 Graduated Engineer in Artificial Intelligence and decision hand
-- I code in Python, C++, Ruby, Dart
-- Interested in ML, Data, and Cloud computing, sometimes I do Flutter
+- 🌱 Engineer in Artificial Intelligence and decision hand
+- 👨🏽‍💻 I code in Python, C++, Ruby, Dart, Kotlin
+- 🧐 Interested in ML, Data, and Cloud computing, sometimes I do Flutter
 
 - 📫 How to reach me: <br>
   email: thierry.noundou.isbm@gmail.com <br>
   insta: thierry_gaetan <br>
-  snap: thierry_gaetan <br>
-  Linkedin: Thierry Njike <br>
+  Linkedin: [Thierry Njike](https://www.linkedin.com/in/%F0%9F%9A%80-thierry-njike-%F0%9F%93%88-564302109/) <br>
   Discord: Lapache#0029 <br>
 - 😄 Pronouns: He/Him
 
