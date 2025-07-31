@@ -17,5 +17,5 @@ Here are some ideas to get you started:
   Discord: Lapache#0029 <br>
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: master in Bowling lol, would you try with me? don't do that you will lose!
+- ⚡ Fun fact: It is not always the first entering the market who makes the highest benefit
 
