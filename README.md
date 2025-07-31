@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 Engineer in Artificial Intelligence and decision hand
+- 🌱 Research Engineer in Cybersecurity
 - 👨🏽‍💻 I code in Python, C++, Ruby, Dart, Kotlin
-- 🧐 Interested in ML, Data, and Cloud computing, sometimes I do Flutter
+- 🧐 Interested in Cybersecurity (Blue team), cloud (GCP), SWE, data
 
 - 📫 How to reach me: <br>
   email: thierry.noundou.isbm@gmail.com <br>
