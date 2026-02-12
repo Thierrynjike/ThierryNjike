@@ -6,9 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 Research Engineer in Cybersecurity
+- 🌱 Research Engineer in GenAI for Cybersecurity
+- 🎓 Master of Eng in AI
 - 👨🏽‍💻 I code in Python, C++, Ruby, Dart, Kotlin
-- 🧐 Interested in Cybersecurity (Blue team), cloud (GCP), SWE, data
+- 🧐 Interested in GenAI, Cybersecurity (Blue team), CTI, SIEM, SOAR, cloud, SWE, data
 
 - 📫 How to reach me: <br>
   email: thierry.noundou.isbm@gmail.com <br>
